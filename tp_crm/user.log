@@ -1,0 +1,100 @@
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Michelle', 'last_name': 'Reynaud', 'phone_number': '0348533878', 'address': 'rue Morel\n25369 AlexandreBourg'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Rémy', 'last_name': 'Philippe', 'phone_number': '02 66 96 56 83', 'address': 'rue Besson\n91468 Saint Jacques'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Suzanne', 'last_name': 'Marie', 'phone_number': '08 01 19 36 41', 'address': 'chemin de Dijoux\n10099 Alexandreboeuf'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Madeleine', 'last_name': 'Grenier', 'phone_number': '0572346510', 'address': '49, rue Yves Henry\n35043 Imbert'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Simone', 'last_name': 'Guillot', 'phone_number': '0306120339', 'address': '6, rue Imbert\n37467 De Sousa'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Anaïs', 'last_name': 'Merle', 'phone_number': '+33 4 85 10 04 80', 'address': '28, boulevard de Renard\n24029 Alves'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Suzanne', 'last_name': 'Roche', 'phone_number': '05 69 21 52 09', 'address': '63, chemin de Gilbert\n58756 GuillouBourg'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Valérie', 'last_name': 'Pires', 'phone_number': '+33 (0)1 49 34 82 51', 'address': '13, chemin de Bodin\n56660 Goncalvesnec'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Stéphane', 'last_name': 'Martinez', 'phone_number': '+33 (0)2 00 51 08 13', 'address': 'boulevard Allard\n59895 Raynaud'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Sébastien', 'last_name': 'Marques', 'phone_number': '05 80 78 94 89', 'address': '6, rue Monnier\n12071 Baron'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'David', 'last_name': 'Blot', 'phone_number': '0630821474', 'address': '12, rue Delaunay\n37411 Moreno'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Xavier', 'last_name': 'Lenoir', 'phone_number': '04 94 04 15 95', 'address': 'avenue Lecoq\n60240 Barre'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Charles', 'last_name': 'Hoarau', 'phone_number': '+33 2 99 52 89 87', 'address': '8, rue de Weber\n53030 Robin'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Georges', 'last_name': 'Fischer', 'phone_number': '+33 (0)6 32 58 79 49', 'address': 'avenue Gilbert Mendes\n59383 Guillaume-sur-Menard'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Mathilde', 'last_name': 'Faure', 'phone_number': '0166670613', 'address': 'boulevard Jacques Marie\n55472 Andre'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Christiane', 'last_name': 'Gomes', 'phone_number': '+33 5 07 58 53 02', 'address': 'rue Delannoy\n09861 Saint Jeanne-sur-Mer'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Inès', 'last_name': 'Lemoine', 'phone_number': '+33 6 13 44 18 38', 'address': 'avenue Leroux\n72254 Sainte SylvieVille'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Xavier', 'last_name': 'Allain', 'phone_number': '+33 5 88 80 28 91', 'address': '73, chemin de Delattre\n09768 Wagner'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Dominique', 'last_name': 'Martin', 'phone_number': '+33 (0)2 28 42 69 63', 'address': '72, chemin Aimé Maillot\n04053 Leger'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Adèle', 'last_name': 'Jean', 'phone_number': '0806946538', 'address': '9, rue Chevalier\n95900 Lacombe-sur-Diallo'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Pierre', 'last_name': 'Traore', 'phone_number': '+33 (0)2 41 66 67 93', 'address': '90, chemin Michaud\n17891 Munoz'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Stéphane', 'last_name': 'Dubois', 'phone_number': '+33 (0)4 88 94 06 29', 'address': 'boulevard Besson\n95551 Saint Margauddan'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Charles', 'last_name': 'Francois', 'phone_number': '0533705497', 'address': '14, rue de Lelievre\n90836 Alexandredan'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Joseph', 'last_name': 'Loiseau', 'phone_number': '0579946552', 'address': '18, rue de Brun\n19799 Bonnin'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Alexandrie', 'last_name': 'Hamon', 'phone_number': '06 95 86 09 81', 'address': '16, avenue de Loiseau\n93344 Neveu'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Isabelle', 'last_name': 'Mahe', 'phone_number': '+33 (0)3 03 88 14 56', 'address': '96, rue Bazin\n62354 Sainte Jacques'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Julie', 'last_name': 'Ruiz', 'phone_number': '0597127113', 'address': '69, avenue Geneviève Brunel\n45709 WagnerBourg'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Odette', 'last_name': 'Michel', 'phone_number': '+33 (0)3 33 92 58 79', 'address': '51, boulevard Alfred Robert\n67583 Hardy-les-Bains'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Jules', 'last_name': 'Pages', 'phone_number': '0199674446', 'address': '6, avenue de Dumas\n87598 Saint Tristan'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Arthur', 'last_name': 'Boulanger', 'phone_number': '0100275562', 'address': '8, boulevard Élise Martel\n66322 Chauvinboeuf'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Stéphanie', 'last_name': 'Valentin', 'phone_number': '+33 1 23 43 54 75', 'address': 'rue de Ribeiro\n86965 Boulanger'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Georges', 'last_name': 'Lebrun', 'phone_number': '+33 (0)6 88 17 18 17', 'address': 'rue Arthur Thibault\n60699 Saint Jean'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Sophie', 'last_name': 'Brunet', 'phone_number': '0438809777', 'address': '88, avenue Gimenez\n86473 Roche'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Martine', 'last_name': 'Lemaire', 'phone_number': '0314049672', 'address': '85, rue Valentine Gilbert\n90704 Julien-sur-Nguyen'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Lucy', 'last_name': 'Moreno', 'phone_number': '0460444307', 'address': '15, boulevard Guillaume Gauthier\n95328 Sainte Océane'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Nath', 'last_name': 'Bertin', 'phone_number': '08 02 77 20 36', 'address': '52, boulevard Henry\n46739 Antoine-sur-Nicolas'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Noël', 'last_name': 'Lefebvre', 'phone_number': '08 05 95 60 14', 'address': '908, boulevard Geneviève Lagarde\n96486 Saint OdetteBourg'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Susanne', 'last_name': 'De Oliveira', 'phone_number': '+33 2 88 01 51 65', 'address': '930, rue de Bouvier\n12448 Saint Élodie'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Louise', 'last_name': 'Ledoux', 'phone_number': '+33 1 20 84 78 84', 'address': '73, boulevard Mathilde Gillet\n18806 Pires'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Monique', 'last_name': 'Lebreton', 'phone_number': '+33 3 12 40 64 16', 'address': '8, avenue Frédéric Lagarde\n30409 Saint AlexVille'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Christine', 'last_name': 'David', 'phone_number': '0518642676', 'address': '31, rue Constance Noel\n82907 Grenier'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Hortense', 'last_name': 'Bruneau', 'phone_number': '+33 (0)1 44 98 34 60', 'address': '29, boulevard Garnier\n96351 Pineau-sur-Boyer'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Marc', 'last_name': 'Lacroix', 'phone_number': '+33 (0)1 47 92 66 17', 'address': 'rue Corinne Berger\n33790 Gaudin-sur-Rodriguez'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Virginie', 'last_name': 'Roux', 'phone_number': '01 86 84 14 53', 'address': '505, rue de Roux\n57230 De Oliveira-la-Forêt'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Maggie', 'last_name': 'Lemonnier', 'phone_number': '0656967078', 'address': 'rue de Dumas\n70888 Duval'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Eugène', 'last_name': 'Verdier', 'phone_number': '+33 (0)1 52 92 35 33', 'address': 'chemin Boucher\n17534 Petitjean-sur-Gauthier'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Raymond', 'last_name': 'Moreno', 'phone_number': '0346355724', 'address': '3, rue Robert Aubry\n14371 Bouvier'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Stéphanie', 'last_name': 'Jourdan', 'phone_number': '+33 6 46 96 99 14', 'address': '2, rue Brun\n51398 Faure'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Monique', 'last_name': 'Maury', 'phone_number': '+33 4 91 88 13 70', 'address': '60, boulevard Moulin\n19754 Marchand-sur-Grondin'} of class 'User' to '_default' database
+INFO:root:Calling function 'save' from Class : User
+INFO:root:Saving object : {'first_name': 'Martine', 'last_name': 'Riviere', 'phone_number': '0343599372', 'address': '5, boulevard de Lejeune\n51521 Saint Aiméenec'} of class 'User' to '_default' database

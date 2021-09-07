@@ -1,0 +1,40 @@
+{
+    "_default": {
+        "1": {
+            "name": "Patrick",
+            "Score": 0,
+            "roles": [
+                "Junior"
+            ]
+        },
+        "2": {
+            "name": "Theo",
+            "score": 20,
+            "roles": [
+                "Junior"
+            ]
+        },
+        "3": {
+            "name": "Romain",
+            "score": 69,
+            "roles": [
+                "Pythonista",
+                "Junior"
+            ]
+        },
+        "4": {
+            "name": "Damien",
+            "score": 124,
+            "roles": [
+                "Junior"
+            ]
+        },
+        "5": {
+            "name": "Axelle",
+            "score": 25,
+            "roles": [
+                "Pouet"
+            ]
+        }
+    }
+}
